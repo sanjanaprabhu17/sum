@@ -12,5 +12,3 @@ print("Sum of elements:", sum_of_elements)
 avg_of_elements = sum_of_elements / len(array)
 print("Average of elements:", avg_of_elements)
 
-print("Max elements:", max(array))
-print("Min elements:", min(array))
